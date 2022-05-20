@@ -1,0 +1,15 @@
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/bin/Debug/net6.0/dotnet.poo
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/bin/Debug/net6.0/dotnet.poo.deps.json
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/bin/Debug/net6.0/dotnet.poo.runtimeconfig.json
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/bin/Debug/net6.0/dotnet.poo.dll
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/bin/Debug/net6.0/ref/dotnet.poo.dll
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/bin/Debug/net6.0/dotnet.poo.pdb
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/obj/Debug/net6.0/dotnet.poo.csproj.AssemblyReference.cache
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/obj/Debug/net6.0/dotnet.poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/obj/Debug/net6.0/dotnet.poo.AssemblyInfoInputs.cache
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/obj/Debug/net6.0/dotnet.poo.AssemblyInfo.cs
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/obj/Debug/net6.0/dotnet.poo.csproj.CoreCompileInputs.cache
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/obj/Debug/net6.0/dotnet.poo.dll
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/obj/Debug/net6.0/ref/dotnet.poo.dll
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/obj/Debug/net6.0/dotnet.poo.pdb
+/home/arnalldo/Documents/Dio/gtf_start_5_.net/orientacao_objetos/dotnet.poo/obj/Debug/net6.0/dotnet.poo.genruntimeconfig.cache
